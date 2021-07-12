@@ -22,5 +22,5 @@ class Solution:
         
         return result
 
-#Time complexity O(M) where M is number of elements in the larger array ignoring the sorting time
+#Time complexity O(M) where M is number of elements in the smaller array ignoring the sorting time
 #Space complexity is O(1)        
